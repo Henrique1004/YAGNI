@@ -42,7 +42,7 @@ public class Main {
                         gastoBD.adicionarGasto(gasto);
                     }
                     else if(op == 'n'){
-                        System.out.println("REGISTRO CANCELADO!");
+                        System.out.println("Registro cancelado");
                     }
                 }
 
